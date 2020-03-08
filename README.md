@@ -40,6 +40,7 @@ yarn --version
 * https://htmlcheatsheet.com/js/
 * https://htmlcheatsheet.com/css/
 
+* https://devhints.io/npm
 * https://devhints.io/react
 * https://devhints.io/bash
 * https://devhints.io/typescript
