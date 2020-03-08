@@ -1,3 +1,36 @@
+## Install
+
+* https://www.mozilla.org/en-US/firefox/developer/
+* https://www.google.com/chrome/
+* https://iterm2.com/
+* https://brew.sh
+* https://code.visualstudio.com/
+* https://docs.docker.com/install/
+* https://nvm.sh/
+* https://ohmyz.sh/ (optional / advanced)
+
+## NVM
+
+* Close terminal
+* Reopen it
+
+```bash
+# test if NVM is installed correctly
+nvm version
+
+# install NodeJS
+nvm install 12.16.1
+```
+
+## Yarn
+
+```bash
+brew install yarn
+
+# test if yarn was installed sucessfully
+yarn --version
+```
+
 ## Cheat sheets
 
 * https://htmlcheatsheet.com/
