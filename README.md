@@ -20,6 +20,9 @@ nvm version
 
 # install NodeJS
 nvm install 12.16.1
+
+# test NodeJS
+node --version
 ```
 
 ## Yarn
