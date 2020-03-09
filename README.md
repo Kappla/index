@@ -7,7 +7,7 @@
 * https://brew.sh
 * https://code.visualstudio.com/
 * https://docs.docker.com/install/
-* https://nvm.sh/
+* https://github.com/nvm-sh/nvm
 * https://www.postman.com/  (registration required)
 * https://www.sourcetreeapp.com/ (registration required)
 
