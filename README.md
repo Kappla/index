@@ -1,5 +1,6 @@
 ## Install
 
+* https://slack.com/intl/en-de/downloads/mac
 * https://www.mozilla.org/en-US/firefox/developer/
 * https://www.google.com/chrome/
 * https://iterm2.com/
